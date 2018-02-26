@@ -1,6 +1,15 @@
 ## My Final App
 ### by Marian Mayer
 
+1. My prefered project for the Final App would be an application that can interface with an I/O device.
+It will show the inputs, and allow you to control the outputs.
+As hardware, I have a MEASUREMENT COMPUTING USB-1024LS USB to I/O 24V device I am planning on using.
+
+2. If my "prefered" project would not be accepted because of the harware requirements, I would like to create an "Ecosistem Simulator" app. The idea came to me while trying to learn classes. Most examples in books, when trying to explain classes, they seem to all agree that animals and plants are perfect examples for explaining classes.
+So I can use this app for clarifying notions for C++ classes, relationships, inheritage, composition and so on.
+
+
+###---------------------------------------------------
 You can use the [editor on GitHub](https://github.com/mmayerstudent/FinalApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
